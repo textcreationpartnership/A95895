@@ -1,0 +1,783 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The picture of independency lively (yet lovingly) delineated</title>
+            <author>Vicars, John, 1579 or 80-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95895</idno>
+            <idno type="STC">Wing V322A</idno>
+            <idno type="STC">ESTC R232195</idno>
+            <idno type="EEBO-CITATION">99897858</idno>
+            <idno type="PROQUEST">99897858</idno>
+            <idno type="VID">137404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2537:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The picture of independency lively (yet lovingly) delineated</title>
+                  <author>Vicars, John, 1579 or 80-1652.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Macock at Adling-hill, and are to be sold by Michael Spark junior in Green Arbour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137404:1" rendition="simple:additions"/>
+            <p>THE
+PICTVRE
+OF
+INDEPENDENCY
+Lively <hi>(yet Lovingly)</hi> Delineated.</p>
+            <q>
+               <bibl>PRO. 27. 6.</bibl>
+               <p>Faithfull are the wounds of a Friend; but the
+Kiſſes of an Enemy are deceitfull: <hi>therefore,</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>PRO. 9. 8.</bibl>
+               <p>Rebuke a wiſe man and he will love thee; but reprove
+a Scorner, and he will hate thee.</p>
+            </q>
+            <p>LONDON,
+Printed by JOHN MACOCK at Adling-hill,
+and are to be ſold by MICHAEL SPARK <hi>junior</hi>
+in Green Arbour. 1645.</p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:137404:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:137404:3"/>
+            <pb n="3" facs="tcp:137404:3"/>
+            <head>The Picture of INDEPENDENCY,
+Lively (yet lovingly) Delineated.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He moſt unhappy jars and inteſtine diviſions be<g ref="char:EOLhyphen"/>tween
+our moſt unkinde and unadviſed <hi>Inde<g ref="char:EOLhyphen"/>pendent
+Brethren</hi> and the <hi>Presbyterian party,</hi>
+eſpecially in matters of <hi>Church-government,</hi>
+having proved ſuch a ſad and ſore <hi>Remora</hi> and
+retardation to the moſt bleſſed and glorious
+work of <hi>Reformation,</hi> at this time, in the Church
+of God, ſo <hi>long</hi> and ſo <hi>longingly</hi> deſired by us all, and (at the firſt)
+ſo ſmoothly and ſweetly begun among us, have filled my ſoule
+(and many thouſands more) with many and moſt various both ſad
+and ſerious thoughts and conjectures, both concerning the <hi>rice</hi>
+and <hi>root</hi> thereof, the preſent <hi>growth</hi> and <hi>increaſe</hi> of them, and the
+<hi>future fear</hi> and <hi>danger</hi> thereof; even no leſſe then a miſerable and
+confuſed <hi>Anarchy,</hi> if not ſeriouſly ſeen into, and ſeaſonably pre<g ref="char:EOLhyphen"/>vented,
+either by a holy and humble <hi>reconciliation</hi> in them, or by
+a juſt <hi>neceſſitated reſtriction</hi> by authority. Now, I conſidered with
+my ſelfe, that for me to perplex my thoughts about the <hi>Dogmati<g ref="char:EOLhyphen"/>call
+diſcuſſion</hi> of the <hi>Controverſie</hi> it ſelf, would be as <hi>endleſſe</hi> as it
+hath been <hi>fruitleſſe,</hi> in reſpect of its <hi>proper end,</hi> yet I know much
+<hi>good</hi> and ſatisfactory <hi>ſettlement</hi> in the <hi>Truth</hi> hath come by the la<g ref="char:EOLhyphen"/>bours
+<hi>that way</hi> taken: But, I conceived it, a yet more <hi>near</hi> and as
+<hi>ſure</hi> a way of <hi>ſatisfaction,</hi> ſeriouſly and ſincerely to look into the
+<hi>practicall-manner</hi> of managing the <hi>matter</hi> in <hi>controverſie</hi> on our
+<hi>Diſſenting-Brethrens</hi> part. And truly, me thought (and that, upon
+apparent and indubitable grounds, as, by and by, I ſhall, I hope,
+make manifeſt) that <hi>that</hi> of divinely inſpired and moſt wiſe King
+<hi>Solomon,</hi> Prov. 13. 10. ſeaſonably and ſuitably offered it ſelfe unto
+me, as a <hi>main,</hi> if not <hi>ſole</hi> and <hi>certain rice</hi> and <hi>ground</hi> of all the un<g ref="char:EOLhyphen"/>chriſtianly
+and unbrotherly broyles and breaches, in this kinde a<g ref="char:EOLhyphen"/>mong
+us, <hi>viz.</hi> that, <hi>Only by Pride comes Contention.</hi> This being,
+then, the undoubted ſpurious <hi>Spring</hi> of our <hi>ſad</hi> and <hi>bad</hi> diviſions,
+<pb n="4" facs="tcp:137404:4"/>
+I could not, but <hi>instantly</hi> and <hi>eaſily</hi> apprehend <hi>Self</hi> to be one moſt
+ſtrong <hi>streame</hi> and turbulent <hi>torrent</hi> iſſuing out of that foul <hi>foun<g ref="char:EOLhyphen"/>taine.</hi>
+Which, that it moſt clearly appears <hi>ſo</hi> in generall, we have
+here <hi>a ſure word of Truth</hi> for it: And that it is <hi>ſo</hi> in this particu<g ref="char:EOLhyphen"/>lar,
+and preſent ſpeciall caſe, what man, though but meerly ratio<g ref="char:EOLhyphen"/>nall,
+can deny, that rightly and impartially diſcerns any thing at
+all in the <hi>mannaging</hi> of the <hi>matter</hi> by our <hi>Independent or Diſſent<g ref="char:EOLhyphen"/>ing
+Brethren</hi> againſt their <hi>Presbyterian Brethren?</hi> For if it be not
+<hi>Spirituall-pride,</hi> and <hi>Selfe-ſeeking,</hi> that lead them on in their
+ſtrange <hi>New-way</hi> (but, that they, with us, clearly <hi>intend,</hi> as they
+ſeem ſeriouſly to <hi>pretend, the glory of God</hi> in his <hi>own pure worſhip,</hi>
+and that <hi>King Jeſus alone</hi> may rule his Church and childrens con<g ref="char:EOLhyphen"/>ſciences
+according to his written Word) why, then, ſtrive they ſo
+ſtrenuouſly for <hi>ſuch a way of worſhip and governement,</hi> which they
+are not able to demonſtrate &amp; make clear from the written Word
+unto their <hi>Presbyterian-Brethren?</hi> Now, if they are not able (as
+they have oft and earneſtly been moved and mildely intreated
+thereunto) poſitively and plainly to ſet down unto us ſuch an <hi>ex<g ref="char:EOLhyphen"/>act
+way</hi> of <hi>worſhip</hi> and <hi>Gubernation of Gods Church</hi> as may not,
+<hi>without ſinne,</hi> be altered in the <hi>leaſt circumſtantiall particle</hi> there<g ref="char:EOLhyphen"/>of,
+to the end of the world; why reſt they not content (with us)
+with ſo much <hi>materiality of worſhip</hi> and <hi>government</hi> as is ſet forth
+plainly &amp; clearly in the Word, and with godly moderation, piety,
+and prudence, humbly refer the reſt (in <hi>meer circumſtantials)</hi> to
+Chriſtian godly <hi>Governours</hi> and <hi>Magiſtrates,</hi> aſſiſted with an <hi>Aſ<g ref="char:EOLhyphen"/>ſembly</hi>
+of moſt learned and pious <hi>Paſtours</hi> and <hi>Teachers</hi> (no whit
+inferiour, for <hi>parts</hi> and <hi>piety</hi> to the <hi>best of theirs)</hi> and <hi>both theſe</hi>
+regulated and directed by the right rule of <hi>Gods Word,</hi> as near as
+poſſibly (in the integrity of their ſoules) they are able; herein, al<g ref="char:EOLhyphen"/>ſo,
+<hi>ſeeking aſſiſtance</hi> from <hi>Gods holy and un-erring Spirit,</hi> by much
+<hi>faſting</hi> and <hi>prayer,</hi> which, I think, they dare not deny to be <hi>Gods
+way.</hi> Why, I ſay, muſt <hi>this</hi> moſt <hi>conſiderable</hi> and moſt <hi>Noble Body</hi>
+of <hi>Bereans</hi> be rather regulated and circumſcribed to the <hi>unwritten
+New-lights</hi> and ſtrange <hi>Enthuſiaſmes</hi> of our <hi>Diſſenting Brethren,</hi>
+they being alſo a moſt <hi>inconſiderable</hi> and <hi>inferiour</hi> part (therefore)
+of the <hi>Body?</hi> Is there any <hi>reaſon,</hi> much leſſe <hi>religion</hi> for it? And
+if not, what then, means all this moſt unkinde and unbrotherly
+<hi>writing</hi> and <hi>wrangling</hi> againſt your <hi>Presbyterian Brethren,</hi> whom
+it highly concernes to contend earneſtly to maintaine the <hi>faith,</hi>
+and thoſe <hi>truths</hi> of God <hi>(Jude, v.</hi> 3.) <hi>delivered to them,</hi> and (as
+<pb n="5" facs="tcp:137404:4" rendition="simple:additions"/>
+conſonant to Gods Word and Scripturall Truth) <hi>practiſed</hi> by all
+the <hi>Saints</hi> in all the <hi>Reformed Churches of Chriſtendome,</hi> yea and
+honoured by the <hi>ſpeciall bleſſing</hi> of God himſelfe on their <hi>way</hi> of
+godly <hi>Church-government,</hi> as hath been all along (for theſe many
+years) moſt viſible in thoſe <hi>many thouſands</hi> of moſt <hi>precious Chri<g ref="char:EOLhyphen"/>ſtians</hi>
+and <hi>venerable Saints,</hi> brought forth and bred up in the
+<hi>Presbyterian-way,</hi> as <hi>Gods way,</hi> and, ſo highly honoured by him<g ref="char:EOLhyphen"/>ſelfe,
+as is aforeſaid. <hi>Theſe,</hi> I ſay, are <hi>thoſe</hi> that are moſt fit, yea,
+that are moſt deeply bound in conſcience, <hi>earneſtly to contend</hi> for
+their <hi>ſo ſound</hi> and <hi>ancient doctrine and diſcipline;</hi> not you of the
+<hi>Independent-way,</hi> for your meer <hi>imaginary opinions</hi> and barely
+<hi>conceited new-notions,</hi> who have been deſired againe and againe to
+manifeſt unto us out of <hi>Gods Word,</hi> or from the <hi>conſtant practiſe</hi>
+of any <hi>ſetled Church</hi> in all <hi>Europe,</hi> what it is ye would have, and
+what it is ye hold, as a <hi>certaine, fixed,</hi> and <hi>unalterable rule</hi> of
+<hi>Gods worſhip</hi> and <hi>Church Govern-ment,</hi> but to this very day have
+not ingenuouſly declared it, or dealt plainly with us therein; wit<g ref="char:EOLhyphen"/>neſſe
+even that ſo highly cryed up <hi>Apologeticall Narration</hi> atteſted
+by five of your moſt <hi>Eminent Pillars</hi> of <hi>Independency,</hi> made-up,
+mainly, of many, indeed, <hi>fair pretences;</hi> as, of a ſtrange and almoſt
+ridiculous <hi>voluntary-baniſhment; ſelf-praiſings</hi> of your own <hi>parts</hi>
+and <hi>piety; complainings,</hi> (but, moſt untruly) how ye have been
+<hi>ſlighted</hi> and <hi>contemned</hi> among us; whereas, ye have been <hi>equally
+embraced</hi> and <hi>honoured</hi> divers wayes, both by the <hi>Parliament
+Aſſembly,</hi> and <hi>City of London,</hi> with the <hi>best</hi> of our <hi>Presbyterians;
+boaſting</hi> how ye have been <hi>approved</hi> and <hi>entertained</hi> in your
+<hi>Church-way,</hi> in <hi>Holland, &amp;c.</hi> Whereas both the <hi>Reformed Church</hi>
+in <hi>Holland</hi> and <hi>France</hi> alſo have aſſured us by the teſtimony of di<g ref="char:EOLhyphen"/>vers
+of <hi>their</hi> moſt pious and eminent <hi>Divines,</hi> the <hi>clean contrary,</hi>
+and that they have rejected <hi>your way,</hi> as very <hi>dangerous</hi> and <hi>de<g ref="char:EOLhyphen"/>ſtructive</hi>
+to the <hi>Church of God,</hi> and <hi>vilifying</hi> and <hi>undervaluing</hi>
+all the <hi>Reformed Churches,</hi> in compariſon of yours: and (to come
+to the point) pleading a <hi>mentall reſervation</hi> in the <hi>main matter</hi> of
+our deſire untill it come to a <hi>dead-lift, or a hard pinch:</hi> you laying
+down <hi>this irreligious Paradox</hi> for a principle (which ye make
+open and conſtant profeſſion of, and wiſh to be enacted, as the
+moſt ſacred law of all others, in the midſt of all other <hi>Eccleſiaſti<g ref="char:EOLhyphen"/>call
+Laws and Canons</hi> in Chriſtian ſtates throughout the world)
+<hi>Not to make your preſent judgement and practiſe, a binding law un<g ref="char:EOLhyphen"/>to
+your ſelves for the future; out of a jealouſie of your own frailty,
+<pb n="6" facs="tcp:137404:5"/>
+keeping this Reſerve, to alter and retract what ever ſhould be diſco<g ref="char:EOLhyphen"/>vered
+to be taken up by you out of a miſunderſtanding of the rule.</hi>
+This being the avowed profeſſion of your <hi>five grand-Apologiſts,</hi>
+to the whole world, in print: yet, a principle ſo inconſiſtent with
+ſound faith and truth of Religion (of which, you ſo much vaunt)
+as that it ſuits with none but ſuch an one whom the Apoſtle <hi>(James</hi>
+1. 6, 7, 8.) long ſince, ye know reprehended and characterized,
+(the <hi>true character,</hi> indeed, me thinks, of our <hi>Independent Bre<g ref="char:EOLhyphen"/>thren)</hi>
+viz. <hi>A double minded man, unſtable in all his wayes, wave<g ref="char:EOLhyphen"/>ring,
+like a wave of the ſea, driven about with the winde, and toſſed.</hi>
+Which, he cloſeth up with this dreadfull determination. <hi>Let not
+that man think he ſhall receive any thing of the Lord.</hi> And if ſuch
+<hi>Scepticks</hi> (as you profeſſe your ſelves by this Apoſtles determina<g ref="char:EOLhyphen"/>tion)
+cannot ſo much as think to receive any thing of the Lord;
+with what faces and conſciences can ye think to obtrude your <hi>In<g ref="char:EOLhyphen"/>dependent-wayes</hi>
+and <hi>fancies</hi> upon us, as the infallable <hi>Oracles,</hi> nay,
+<hi>Scepter,</hi> and <hi>Government</hi> of <hi>God</hi> and <hi>Chriſt,</hi> which your ſelves,
+infallibly believe not to be ſuch, and take up only for the preſent,
+with a <hi>Reſerve</hi> of altering, and not binding <hi>your very ſelves</hi> there<g ref="char:EOLhyphen"/>to,
+for the <hi>future?</hi> For Gods ſake, my <hi>Brethren,</hi> take heed what
+ye do herein: For does not the Apoſtle, 2 <hi>Tim.</hi> 3. 1, 2.) propheſie,
+<hi>That in the laſt dayes, perilous times ſhall come; for men ſhall be lo<g ref="char:EOLhyphen"/>vers
+of themſelves, covetous, boaſters, proud, heady, high-minded,
+having a forme of godlineſſe, but denying the power thereof. Ever
+learning, but never able to come to the knowledge of the Truth.</hi> Yea
+ſuch as will not endure ſound doctrine, but after their own luſts
+will heap to themſelves teachers, having itching eares, turning
+away their ears from the truth, and will be turned unto fables and
+fictions, new-lights and revelations. And are not your <hi>thus</hi> pre<g ref="char:EOLhyphen"/>tended
+<hi>New-lights,</hi> the very perſons, thus, delineated, by your
+own confeſſions and practiſes too, even Murmurers, Com<g ref="char:EOLhyphen"/>plainers,
+deſirous to walk after your own luſts, and having mens
+perſons in admiration for advantage. Yea, take heed (I ſay) ye be
+not found to be thoſe <hi>Clouds without water carried about with
+windes, and thoſe Wandring-Stars which the Apostle Jude ſpeakes
+of, which know not when or where, immutably, to fix your faith and
+judgements?</hi> Whereas, our <hi>Presbyterians,</hi> and all other true <hi>Be<g ref="char:EOLhyphen"/>lievers</hi>
+are alwayes (1 <hi>Cor. 15. 58. Phil.</hi> 1. 27. &amp; <hi>Chap.</hi> 4. 1, &amp;c.)
+<hi>Stedfaſt, unmoveable, ſtanding faſt in the Lord, in one ſpirit and in
+one minde, ſtriving together for the faith of the Goſpell, and not toſ<g ref="char:EOLhyphen"/>ſed
+<pb n="7" facs="tcp:137404:5"/>
+to and fro, like children, carried about with every winde of do<g ref="char:EOLhyphen"/>ctrine,
+by the ſlight of men,</hi> as too too many <hi>Scepticall-Independents</hi>
+are, to the great obloquie and ſcandall of <hi>Religion.</hi> O my <hi>Bre<g ref="char:EOLhyphen"/>thren,</hi>
+I have therefore great cauſe to fear you will hardly prove
+<hi>Martyrs</hi> for that <hi>Church-way</hi> or <hi>Diſcipline,</hi> for the future, to
+which you will not <hi>peremptorily</hi> ſo much as <hi>binde</hi> your <hi>judgement;</hi>
+no, though but only for the preſent.</p>
+            <p>Now, if <hi>all this</hi> aforeſaid, ariſe not (as wiſe <hi>King Solomon</hi>
+ſayes) from Spirituall <hi>Pride and ſelf-ſeeking,</hi> what meanes (I ſay)
+all this <hi>fruitleſſe</hi> writing and wrangling (if not <hi>faithleſſe</hi> ſhuf<g ref="char:EOLhyphen"/>fling
+with, and) againſt the unqueſtionable <hi>heaven-honoured
+Truths</hi> of the <hi>Presbyterian-way,</hi> never to be <hi>refuted</hi> (though
+much <hi>quarrelled</hi> at) by all the <hi>New-Speculations</hi> of our moſt
+unkinde <hi>Diſſenting brethren.</hi> As namely, your moſt unjuſt and <hi>in<g ref="char:EOLhyphen"/>jurious
+quarrellings,</hi> and (I fear) <hi>malicious prejudicacies</hi> againſt
+reverend Maſter <hi>Edwards</hi> his pious, painfull, and learned Prea<g ref="char:EOLhyphen"/>ching
+and Writing againſt your <hi>Novell-wayes,</hi> eſpecially your
+quarrelling againſt his moſt learned <hi>Antapologia,</hi> not hitherto
+anſwered (as, indeed, unanſwerable) by the <hi>beſt</hi> of you all. How
+alſo have the elaborate labours of <hi>Reverend</hi> Maſter <hi>Herl,</hi> learned
+Doctor <hi>Stuart,</hi> religious and learned Maſter <hi>Rutterford,</hi> and di<g ref="char:EOLhyphen"/>vers
+other <hi>Eminent Divines,</hi> been ſlighted, traduced, and abuſed
+by you, who have moſt copiouſly and conſcienciouſly confirmed
+(by invincible arguments, Scripture, and reaſon) <hi>their Presbyte<g ref="char:EOLhyphen"/>riall,</hi>
+and moſt abundantly and clearly confuted your <hi>Independent<g ref="char:EOLhyphen"/>way?</hi>
+And (though in the laſt, yet not in the leaſt place) how have
+ye moſt ungodlily, and ungratefully traduced and palpably abuſed
+pious and moſt precious Maſter <hi>Prynne,</hi> who (as I had a late for<g ref="char:EOLhyphen"/>mer
+occaſion to make like-worthy and honourable mention of
+him, in my Letter to Mr <hi>J. Goodwin)</hi> for his moſt famous and faith<g ref="char:EOLhyphen"/>full
+<hi>Sufferings,</hi> his moſt elaborate, learned, and divine <hi>writings,</hi> and
+for his indefatigable and moſt fruitfull <hi>Services,</hi> many-fold wayes,
+both for this <hi>Church</hi> and <hi>State</hi> too, can never be ſufficiently <hi>ho<g ref="char:EOLhyphen"/>noured,
+embraced,</hi> and <hi>beloved</hi> by all true-hearted <hi>Christians</hi> over
+this whole kingdome; yet (I ſay) how hath this moſt incompa<g ref="char:EOLhyphen"/>rable
+and <hi>precious Gentleman,</hi> this moſt <hi>Eminent Saint and Ser<g ref="char:EOLhyphen"/>vant</hi>
+of the Lord and <hi>famous Patriot of his Country,</hi> been lately
+and liberally traduced, and moſt groſſely abuſed by, almoſt, all our
+moſt unkinde and ungratefull <hi>Diſſenting brethren</hi> of the <hi>Congre<g ref="char:EOLhyphen"/>gationall
+Church-way;</hi> But moſt eſpecially (and more lately,
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:137404:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:137404:6"/>
+               <pb n="8" facs="tcp:137404:7"/>
+ſince my foreſaid <hi>Letter</hi> was publiſhed) by the fore-mentioned
+Maſter <hi>John Goodwin</hi> (as in all his former inſulting and uſavory
+peeces; ſo above all) in that laſt and worſt moſt ſcandalous
+Pamphlet of his, Entituled <hi>Calumny arraigned and Caſt,</hi> a moſt
+ſlaſhy and falſe work (as I can eaſily prove) and a moſt undiſ<g ref="char:EOLhyphen"/>creet,
+unjuſt, and unreaſonable taske undertaken by him, in taking
+upon him to be both <hi>Judge</hi> and <hi>Party,</hi> in his <hi>own cauſe.</hi> For, who
+can expect any other but a totall conviction and tyrannicall cenſure
+from a <hi>profeſt Adverſary</hi> againſt his <hi>Antagoniſt?</hi> But, if any im<g ref="char:EOLhyphen"/>partiall
+and judicious Reader will but enquire for, and read over,
+ſeriouſly this Mr. <hi>John Goodwins Letter</hi> to Mr. <hi>Thomas Goodwin,</hi>
+then in <hi>Holland</hi> (not long ſince printed and publiſhed by Mr. <hi>Bel<g ref="char:EOLhyphen"/>lamy</hi>
+in <hi>Cornhill,</hi> in <hi>London)</hi> he ſhall then ſee to his deep admira<g ref="char:EOLhyphen"/>tion
+what a fit man Mr. <hi>John Goodwin</hi> (ſo tainted with <hi>Socinia<g ref="char:EOLhyphen"/>niſme</hi>
+(if not <hi>Arminianiſme)</hi> with moſt dangerous <hi>Errors</hi> in <hi>Sa<g ref="char:EOLhyphen"/>ving-faith;</hi>
+ſometime a <hi>Presbyterian,</hi> and ſometime an <hi>Indepen<g ref="char:EOLhyphen"/>dent)</hi>
+is to ſit a <hi>Iudge,</hi> to <hi>arraigne, caſt, and condemne,</hi> ſuch a moſt
+conſtantly, orthodox, pious, and painfull ſervant to God and his
+country, as Mr. <hi>Prynne?</hi> And then, certainly, the Reader muſt
+needs alſo break forth (with me) into an extaſie of aſtoniſhment
+and admiration at the ſtrange boldneſſe and unbluſhing audacity of
+Mr. <hi>Iohn Goodwin,</hi> ſo to cenſure others, <hi>conſidering</hi> his own guilt,
+<hi>Ievity,</hi> and <hi>inſtability</hi> of minde, and groſſe errours in judgement;
+his ſaid <hi>vanity</hi> and <hi>unconſtancy</hi> of minde and <hi>promptitude</hi> to error,
+being lately further enformed to me by very reverend and credible
+teſtimony; thus, That even when he was a Sudent in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſ<g ref="char:EOLhyphen"/>ty
+of Cambridge,</hi> his <hi>Contemporaries</hi> there with him, have reported
+and witneſſed of him, that he ever loved to maintain and defend
+<hi>ſtrange Opinions</hi> among them: Whereby it ſeems the man <hi>(Sala<g ref="char:EOLhyphen"/>mander</hi>-like)
+cannot live out of the <hi>fire</hi> of <hi>contention</hi> &amp; offenſive o<g ref="char:EOLhyphen"/>pinions;
+notwithſtanding that <hi>one</hi> of his <hi>bewitched pert</hi> (if not, ma<g ref="char:EOLhyphen"/>lepert)
+<hi>Proſelytes,</hi> moſt abſurdly, ſuperciliouſly, &amp; falſly called him,
+<hi>A great Maſter in Iſrael, and the beſt of men.</hi> How, alſo, hath that
+foreſaid Noble <hi>Berean,</hi> I mean Mr. <hi>Prynne,</hi> been yet more lately
+and more boldly abuſed, by a moſt ſcurrillous, proud, and illitte<g ref="char:EOLhyphen"/>rate
+poor Pamphlet, under the notion or title of Mr. <hi>Iohn Lilborns
+Letter</hi> to Mr. <hi>William Prynne?</hi> Wherein, how frothily, fondly,
+and falſely, hath he abuſed, not only precious Mr. <hi>Prynne,</hi> whoſe
+Books (in point of a Diſputant) he is moſt unworthy to bear after
+Mr. <hi>Prynne;</hi> wilfully miſ-reciting and miſ-reporting his Poſitions
+<pb n="9" facs="tcp:137404:7"/>
+point-blank againſt his words and writings, which, ſurely, he ei<g ref="char:EOLhyphen"/>ther
+read not or underſtood not; as if Mr. <hi>Prynne</hi> concurred with
+the Jeſuites in a point wherein he is moſt oppoſite unto them;
+complaining againſt the Parliaments juſt reſtraint againſt libellous
+printing, even in his libellous Letter, in print, before ever it came
+to Mr. <hi>Prynne</hi> in writing: But alſo reviling the whole <hi>Reverend
+Aſſembly</hi> of moſt learned and pious <hi>Divines,</hi> terming them (moſt
+rudely and unmannerly) at leaſt three or four times, no better then
+<hi>Black-Cotes,</hi> and, <hi>The profeſt enemies of Chriſt himſelf:</hi> yea, and
+moſt audaciouſly daring to cenſure <hi>the moſt honourable Parliament
+it ſelfe,</hi> both <hi>Lords</hi> and <hi>Commons,</hi> with diſhonourable <hi>breach</hi> of
+their <hi>Covenant?</hi> But it hath pleaſed the moſt righteous Judge of
+all men, in ſome meaſure, to meet with the evill of both theſe moſt
+ungratefull Sons of their Mother, the Church of God, in way of
+puniſhment (as I, for my part, cannot but give God the glory, &amp; ſo
+account it, the one) by juſt <hi>ſhame,</hi> in being deſervedly thruſt out of
+his Living, in <hi>London,</hi> by the <hi>Parliament;</hi> the other by <hi>ſmart,</hi> receiv<g ref="char:EOLhyphen"/>ing
+a moſt dangerous wound in <hi>one of his eyes,</hi> by a Pike, immediate<g ref="char:EOLhyphen"/>ly
+after his publiſhing of that moſt ſhallow and ſilly <hi>Letter.</hi> God
+give them both hearts to lay theſe things to heart, leſt a worſe
+thing follow.</p>
+            <p>Again, <hi>if Pride,</hi> (give me leave I pray you, without offence, ſtill
+to uſe the language of <hi>Canaan,</hi> to ſpeak in the dialect of Gods own
+<hi>Holy Spirit,</hi> which ye ſeem to delight in) <hi>if Pride,</hi> I ſay, and <hi>Self-ſeeking,</hi>
+or <hi>Self-engagements</hi> be not the <hi>Spring</hi> of al theſe your moſt
+unhappy and unholy <hi>contentions</hi> with us: what then, means your
+moſt unjuſt and <hi>cauſeleſſe Schiſme</hi> and <hi>ſeparation</hi> from us? and
+diſdaining to joyn and communicate in holy Ordinances and Aſ<g ref="char:EOLhyphen"/>ſemblies
+with us, putting your ſelves into an unwarrantable way
+of gathering <hi>peculiar Churches,</hi> out of <hi>Churches,</hi> to your ſelves,
+falling, point-blank, upon that complaint and crimination of <hi>pal<g ref="char:EOLhyphen"/>pable
+Schiſme</hi> (which, I admire ye ſee not, and ingenuouſly ac<g ref="char:EOLhyphen"/>knowledge
+not, even to this day; but moſt obſtinately and wil<g ref="char:EOLhyphen"/>fully,
+I fear, run on in) which the Apoſtle <hi>Paul</hi> himſelf ſo complains
+of, <hi>viz.</hi> That one is of <hi>Paul,</hi> another of <hi>Apollo,</hi> and another of
+<hi>Cephas:</hi> So ye, one is of Dr. <hi>Holmeſes,</hi> another of Mr. <hi>Goodwins,</hi>
+and another of Mr. <hi>Lockyers</hi> Congregation; the very <hi>ſame</hi> thing,
+ye ſee, that the holy Apoſtle <hi>Paul</hi> himſelf, their complains of, even
+thus (as much as in you is) to divide and rend Chriſt himſelf a ſun<g ref="char:EOLhyphen"/>der.
+By this means alſo making and eſteeming every <hi>particular
+<pb n="10" facs="tcp:137404:8"/>
+Congregation,</hi> yea, every <hi>particular Saint</hi> of yours (as ye cal them)
+a true and <hi>entire Church,</hi> as Mr. <hi>D.</hi> one of your <hi>Independent Bre<g ref="char:EOLhyphen"/>thren</hi>
+holds, and publickly teaches; to every of whom equally, ye
+ſay, the <hi>Keyes belong,</hi> (and I think, by this rule, to the <hi>Women-Saints,</hi>
+as well as to the <hi>Men-Saints)</hi> not being ſubject to any <hi>ap<g ref="char:EOLhyphen"/>peale</hi>
+or <hi>coercive-power,</hi> other then your own; no, nor to admit of
+any counſell or advice from other <hi>Congregations,</hi> further then ye
+pleaſe to ask and entertain it your ſelves. Now, if ſuch an uncough
+<hi>Chaos,</hi> and ſtrange <hi>Church-way</hi> (as ye call it) as this is, ſhould be
+admitted over this <hi>whole Kingdome:</hi> O, I tremble to think and
+conceive, what a <hi>Humano capiti cervicem jungere equinam,</hi> &amp;c.
+as the Poet <hi>Horace;</hi> or what a <hi>Monstrum horrendum, informe,
+ingens,</hi> &amp;c. as <hi>Virgil;</hi> this would prove in ſhort time! And yet
+you our moſt improvident <hi>Diſſenting Brethren</hi> call and count <hi>this</hi>
+only, <hi>Chriſts way,</hi> and your <hi>Selves only</hi> (that run in it) of Chriſts
+Kingdome, excluding all other Chriſtians (very many of whom,
+every way elſe as godly and gracious as your ſelves, and by <hi>ſome</hi> of
+your own learned &amp; more moderate <hi>Independents</hi> (even your five
+Apologiſts themſelves) held to be a <hi>true Church</hi> of Chriſt, and to
+have a <hi>true Ministry,</hi> yet ſhutting out, I ſay, all <hi>theſe Chriſtians</hi>
+from Chriſts kingdome, even as the <hi>profeſt enemies</hi> thereof, and ac<g ref="char:EOLhyphen"/>counting
+<hi>them</hi> and their <hi>innocent babes and children,</hi> no better then
+<hi>Ethnicks</hi> and <hi>Heathens</hi> whom ye will by no meanes admit into
+your <hi>Aſſemblies</hi> or <hi>Congregations,</hi> to partake of the precious <hi>Ordi<g ref="char:EOLhyphen"/>nances</hi>
+of life and ſalvation <hi>(Baptiſme</hi> and the <hi>Lords Supper)</hi> if
+they will not joyn with you in your <hi>Church-way,</hi> and take your
+unwarrantable and unſcripturall <hi>formall-Covenant,</hi> invented by
+your ſelves: or, if they be <hi>poor,</hi> and cannot help to ſupport (with
+their purſes) your <hi>Congregationall-way:</hi> I ſpeak but what I know
+herein, and can produce my teſtimonies. Tell me, I beſeech you,
+where (in all the whole Book of God, from <hi>Geneſis</hi> to the <hi>Revela<g ref="char:EOLhyphen"/>tions)</hi>
+Separation from Chriſtian Brethren, every way as good and
+godly as your ſelves, is either commended or commanded? And,
+if ye are not able (is, to this day, ye never were, nor ever can) to
+make this clear unto us: Then, how dare ye thus obſtinately and
+cauſeleſſely ſeparate from us into Corners and Chambers, and I
+know not what private and unwarrantable Aſſemblies. Whereas,
+we can moſt plentifully prove (yea, your own conſciences can<g ref="char:EOLhyphen"/>not
+but check and chide you for) the contrary; namely, how
+clearly it is the will of God that Chriſtian Unity and Society be
+<pb n="11" facs="tcp:137404:8"/>
+maintained. Witneſſe, that eſpecially (among many other full
+Texts of Scripture for it) of the Apoſtle, <hi>Epheſ.</hi> 4. 1, 2, 3, 4, &amp;c. <hi>I
+therefore</hi> Paul <hi>the priſoner of the Lord, beſeech yee that you walke
+worthy of the vocation, wherewith ye are called. With all lowlineſſe
+and meekneſſe, with long-ſuffering, forbearing one another in love.
+Endeavouring to keep the unity of the Spirit in the bond of peace.
+For, there is one body, and one Spirit, even as ye are called in one
+hope of your calling. One Lord, one Faith, one Baptiſme, one God,
+one Father of all, who is above all, and through you all, and in you
+all.</hi> Together, I ſay, with very many other moſt pregnant Scrip<g ref="char:EOLhyphen"/>tures
+to this purpoſe. How then O my Brethren dare ye do theſe
+things (except it be by that moſt deſtructive and pernicious plea
+for <hi>Liberty of Conſcience,</hi> which ye ſo urge, and cry up, and cry out
+for, to do what ye liſt, in pretended matters of conſcience; vehe<g ref="char:EOLhyphen"/>mently
+urging, that the <hi>Civill-magiſtrate</hi> hath no power to rule
+over any Chriſtians conſcience; which, though we eaſily grant in
+point of private <hi>believing,</hi> yet, we ſay and will juſtifie, he has
+power to <hi>regulate</hi> Chriſtians conſciences, in point of <hi>publick, pi<g ref="char:EOLhyphen"/>ous,</hi>
+and <hi>peaceable practicall-cariage,</hi> both in <hi>life</hi> and <hi>doctrine,</hi> as
+is moſt clear from that pregnant &amp; impregnable Scripture, 1 <hi>Tim.</hi>
+2. 1, 2, 3. Where the <hi>Civill-magiſtrate</hi> is acknowledged by the A<g ref="char:EOLhyphen"/>poſtle
+<hi>Paul</hi> himſelf, to be the <hi>principall inſtrument</hi> of God to <hi>re<g ref="char:EOLhyphen"/>gulate</hi>
+mens <hi>outward conſciences</hi> (as I may call them) as well in
+all <hi>godlineſſe</hi> as <hi>honeſty,</hi> for the preſervation of <hi>publick peace,</hi> unity
+and community one with another. Unleſſe ye dare avouch that
+Chriſt did purchaſe <hi>a liberty of conſcience</hi> for men to ſinne, in any
+ſort, which were moſt blaſphemous ſo to ſay or think. How dare
+ye then I ſay (if ye will ſhew your ſelves the <hi>Sons</hi> and <hi>Daughters</hi>
+of Chriſtian <hi>love, peace,</hi> and <hi>humility)</hi> do theſe things, even thus
+ſeparate your ſelves from <hi>holy communion</hi> with us, and thus <hi>cen<g ref="char:EOLhyphen"/>ſoriouſly
+judge</hi> and think of us, who do ſeven at this time) enjoy
+(ever bleſſed be the Lords free mercy for it, and the Lord grant that
+this <hi>unholy-ingratitude</hi> and <hi>wanton-contention</hi> of yours, cut us not
+ſhort of the <hi>farther</hi> and <hi>freer</hi> enjoyment of) the <hi>Word,</hi> moſt ortho<g ref="char:EOLhyphen"/>doxly,
+plentifully, and profoundly preached, the <hi>Sacraments,</hi> in
+ſweet meaſure (for the time) purely adminiſtred; and both <hi>Sa<g ref="char:EOLhyphen"/>craments</hi>
+and <hi>Church-diſcipline</hi> in a moſt hopefull way (had we
+but <hi>thankfull hearts, godly wiſdome,</hi> and <hi>pious patience</hi> to wait the
+Lords leaſure (as it is our Chriſtian duty) for the perfecting &amp; co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pleting
+thereof; and not, being <hi>poor-beggars,</hi> to be our own <hi>proud-carvers)</hi>
+               <pb n="12" facs="tcp:137404:9"/>
+even ever ſince we moſt happily ſhook off the <hi>Antichri<g ref="char:EOLhyphen"/>ſtian
+yoke</hi> of our tyrannicall <hi>Prelates,</hi> to be bleſſedly reduced and
+ſetled in a <hi>holy</hi> and <hi>unblended way,</hi> free from <hi>beggarly-ceremonies</hi>
+and <hi>humane inventions,</hi> as much as by Chriſtian <hi>prudence and piety,</hi>
+(backed and ſtrengthned by Gods <hi>righteſt-rule,</hi> the <hi>Scriptures,)</hi> is
+poſſible to be attain'd unto, both for the <hi>preſent</hi> and <hi>future</hi> too.</p>
+            <p>But,<note place="margin">Object.</note> probably it will be here objected; But Sir, would you
+have us to ſubmit to ſuch a <hi>Church-government</hi> or <hi>Diſcipline</hi> as we
+fear &amp; are informed by our learned &amp; pious <hi>Paſtors,</hi> is as <hi>Antiti<g ref="char:EOLhyphen"/>chriſtian</hi>
+&amp; as tyrannicall (if not more) than the <hi>Prelaticall</hi> was:
+and, which Mr. <hi>John Goodwin</hi> ſaies, in his <hi>Theomachia,</hi> is a <hi>bloody,
+unpeaceable, &amp; perſecuting way,</hi> a way much <hi>damping</hi> and <hi>deading</hi>
+the flouriſhing improvements of the <hi>gifts</hi> and <hi>graces</hi> of the <hi>Saints.</hi>
+            </p>
+            <p>Whereunto I anſwer;<note place="margin">Anſw.</note> Firſt, that this is a moſt unjuſt &amp; injurious
+ſlander maliciouſly caſt upon the <hi>Presbyterian-way;</hi> witneſſe, as I
+ſaid before, the many <hi>thouſands</hi> of moſt <hi>eminent Saints</hi> and <hi>rare
+Chriſtians,</hi> famous in their ſeverall generations, in <hi>Geneva, Ger<g ref="char:EOLhyphen"/>many,
+Sweden, Hungary, Bohemia, Holland, France, Scotland</hi> and
+now in <hi>England,</hi> both for moſt excellent and enlarged parts of
+learning and piety. Secondly, witneſſe the moſt tranſcendent te<g ref="char:EOLhyphen"/>ſtimony
+of one of your own (now) prime <hi>Independent Brethren</hi>
+Mr. <hi>Lockyer</hi> by name, who (being at my houſe, upon juſt occaſion
+thereunto afforded him by my ſelfe) profeſſed moſt ſeriouſly unto
+me, that he having been in <hi>Scotland,</hi> and ſeen with his eyes, and
+taken ſpeciall notice of the moſt exact practicall managing of their
+<hi>Church-government</hi> (and we all know that one <hi>eye-witneſſe</hi> is
+better then ten <hi>eare-witneſſes,</hi> or then a hundred <hi>ſpeculative-con<g ref="char:EOLhyphen"/>ceits</hi>
+or <hi>imaginary New-lights)</hi> in all the particulars thereof; he, I
+ſay, profeſſed moſt ſeriouſly unto me, that he was <hi>in conſcience con<g ref="char:EOLhyphen"/>vinced</hi>
+and clearly perſwaded <hi>that their Presbyterian-way was moſt
+Apoſtolicall and Evangelicall,</hi> even in theſe very tearms; and
+what higher <hi>Encomium</hi> could he poſſibly have given, in this be<g ref="char:EOLhyphen"/>half?
+Thirdly, and laſtly, in further anſwer hereunto; I deſire to
+ask any ingenuous <hi>Diſſenting Brother</hi> or <hi>Siſter,</hi> and if their <hi>conſci<g ref="char:EOLhyphen"/>ence</hi>
+will but ſpeak-out the plain truth herein, let them freely ſay,
+O, what would they and I have given, or done, leſſe then ten years
+agoe, and ſo, upward, to have had the <hi>Presbyterian Government,</hi>
+as it then was, and now is, in <hi>Scotland,</hi> to have been eſtabliſhed
+and ſet up among us, which, now, like <hi>fools</hi> and moſt ungratefull
+<hi>wantons,</hi> ye ſo contemne, condemne, and vilifie, to your <hi>great
+ſhame</hi> be it ſpoken?</p>
+            <p>
+               <pb n="13" facs="tcp:137404:9"/>
+Again,<note place="margin">Object. 3.</note> it may, peradventure, be here objected. But, are not the
+Miniſters and many others of the <hi>Independent-way,</hi> very <hi>eminent
+Saints</hi> and <hi>Chriſtians,</hi> both for their <hi>learning</hi> and moſt <hi>holy lives</hi>
+and <hi>unſpotted converſation,</hi> and therefore to be, as juſtly, <hi>eredited,</hi>
+and <hi>believed</hi> in what they have delivered to us, by <hi>word</hi> or <hi>writing,</hi>
+as <hi>any of yours</hi> to the contrary?</p>
+            <p>I anſwer,<note place="margin">Anſw. 2.</note> neither the <hi>parts,</hi> nor <hi>piety</hi> of men (though ever ſo <hi>out<g ref="char:EOLhyphen"/>wardly
+pure</hi> and <hi>holy)</hi> are a <hi>right rule</hi> for truly wiſe Chriſtians to
+walk by; but, contrary wiſe, very dangerous and deceivable: For
+(though from my heart, I here profeſſe, as in the preſence of God,
+the <hi>Searcher of all hearts,</hi> that I love and honour very many of the
+<hi>Independent</hi> or <hi>Diſſenting Brethren,</hi> both for their <hi>learning</hi> and <hi>ho<g ref="char:EOLhyphen"/>ly
+lives;</hi> yet give me leave, as ingenuouſly to confeſſe, with all,
+that I much fear them for their judgement and <hi>opinions ſake,</hi> which
+I hold <hi>dangerous</hi> and <hi>deſtructive:)</hi> For, I ſay, as the Apoſtle <hi>Paul</hi>
+ſayes, <hi>Gal.</hi> 1. 8. Though any of you, yea or an <hi>Angell</hi> from Hea<g ref="char:EOLhyphen"/>ven
+preach any other <hi>Goſpel</hi> or <hi>Word,</hi> then that which Chriſt and
+his Apoſtles, in the <hi>written Word</hi> hath delivered to us, let him be
+accurſed. And my Brethren, 'tis not an unknown thing to Scho<g ref="char:EOLhyphen"/>lars,
+and any others, verſt in <hi>Eccleſiaſticall hiſtories,</hi> that the moſt
+dangerous <hi>Hereticks</hi> and <hi>firſt broachers</hi> of <hi>Hereticall</hi> and <hi>Schiſma<g ref="char:EOLhyphen"/>ticall
+errours</hi> and <hi>opinions,</hi> as <hi>Pelagius, Arminius,</hi> &amp;c. Were men
+of marvelous <hi>strict life,</hi> and <hi>outward holineſſe.</hi> This rule, therefore
+I ſay, is no ſolid, ſafe or right rule for pious and prudent Chriſtians
+to walk by, but the <hi>written Word</hi> of God only, and <hi>clear</hi> and <hi>de<g ref="char:EOLhyphen"/>monſtrative
+deductions</hi> and <hi>neceſſary conſequences</hi> drawne thence,
+by comparing Scripture with Scripture, and thus <hi>trying the ſpirits
+whether they are of God or not, 1 John</hi> 4. 1. As the noble <hi>Bereans</hi>
+did. Now, all theſe premiſes ſeriouſly conſidered, wherein remains
+I pray, the mighty diſtance and difference between our moſt un<g ref="char:EOLhyphen"/>kinde
+<hi>Diſſenting Brethren</hi> and us, if not in the <hi>Self-flation of their
+ſpirits,</hi> and in their <hi>Self-ſeeking,</hi> and private ingagements, as hence
+we have great cauſe, more then to fear? For, they ſay, they deſire
+but what we deſire in the main, <hi>viz. Pure Ordinances, Holy Aſ<g ref="char:EOLhyphen"/>ſemblies,</hi>
+and <hi>Chriſt upon his Throne,</hi> only they diſſent and differ
+from us in ſome poor <hi>punctilios,</hi> ſome meer <hi>ſurmiſes,</hi> &amp; bare <hi>pre<g ref="char:EOLhyphen"/>tence</hi>
+of what <hi>is not,</hi> or <hi>not yet proved</hi> to us from Gods Word, with<g ref="char:EOLhyphen"/>out
+which, they muſt pardon us, if we cannot <hi>believe</hi> them or <hi>be
+led</hi> by them; and herein, indeed, I confeſſe, they out-run us, and
+run before us, yea (and I fear and believe too) before God calls
+<pb n="14" facs="tcp:137404:10"/>
+them. What then, means this Daggers-drawing at one another for
+<hi>poor circumſtantials,</hi> things not <hi>abſolutely neceſſary to ſalvation,</hi>
+and not juſtifiable by you from the Word? What, I wonder
+ſhould be the reaſon of this unreaſonable and irreligious <hi>contend<g ref="char:EOLhyphen"/>ing</hi>
+to <hi>divide</hi> Chriſts <hi>ſeamleſſe-Coat</hi> (wherein, indeed, our <hi>Diſ<g ref="char:EOLhyphen"/>ſenting
+Brethren</hi> ſhew themſelves far worſe then the <hi>Chriſt-cru<g ref="char:EOLhyphen"/>cifying
+Souldiers)</hi> for the pretended <hi>fringe</hi> ſake thereof? What's
+the cauſe hereof, I ſay, if it be not too much of that <hi>knowledge which
+puffeth up,</hi> and too little of that <hi>love which edifieth?</hi> Do ye think,
+my Brethren, that Men and Women given to <hi>ſtrife, contentions,
+envyings, malitiouſneſſe, hypocriſie, lying, pride, covetouſneſſe,</hi> and
+ſuch like, being fruits of the fleſh, and ſinnes exceeding ſinfull in
+Gods ſight, <hi>(Col. 3. 5, 6, 7, 8 9. Tit.</hi> 3. 2, 3.) ſhall not be ſhut out of
+Heaven, as certainly, as thoſe given to <hi>ſwearing, drunkenneſſe, mur<g ref="char:EOLhyphen"/>ther,
+whoredome,</hi> and ſuch like more <hi>open enormities?</hi> For ſhame
+then, my Brethren, forbear any longer to bear-up your meer opini<g ref="char:EOLhyphen"/>nions
+with ſuch an <hi>unfriendly feud</hi> and irreconcileable <hi>rancour,
+strife,</hi> and <hi>contention.</hi> What, had ye rather that <hi>three famous and
+(lately) flouriſhing Kingdomes</hi> nay <hi>(Chriſts Kingdome</hi> it ſelfe, as
+much as in you is) ſhould be ruinated &amp; deſtroyed (for, <hi>a Kingdom
+or Church, divided within it ſelf,</hi> ſayes our bleſſed Saviour, <hi>cannot
+ſtand)</hi> than that your hitherto <hi>unproved opinions</hi> ſhould by you be
+left and laid down? What, muſt ye be <hi>Caeſars</hi> or <hi>nothing?</hi> Had
+ye rather loſe <hi>Peace and Truth too,</hi> then <hi>Victory?</hi> May not the
+mocking and revyling <hi>Royaliſts at Oxford,</hi> and the <hi>Malignant
+ſcoffers at London,</hi> yea, the <hi>Atheiſts</hi> and <hi>Papists</hi> too every where
+elſe, juſtly jeer us both, and in deriſion tell us, the <hi>King</hi> and his
+<hi>party</hi> know not <hi>what to grant us;</hi> ſince we, thus agree not among
+our ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves, and know not <hi>what ſhould be granted unto us?</hi> Nay, may
+not the King of Heaven, the Lord our God himſelf, deny us the
+<hi>mercies,</hi> which we hitherto have had great hopes he intends to be<g ref="char:EOLhyphen"/>ſtow
+upon us; when we his <hi>children,</hi> like unthankfull (as I toucht
+before) and <hi>wrangling wantons,</hi> fall out among our ſelves about a
+too-bold <hi>choice,</hi> fitted only to our own <hi>fancies,</hi> and will have <hi>this</hi>
+or <hi>that,</hi> or <hi>none at all?</hi> Muſt <hi>Beggars,</hi> I ſay, be their own <hi>carvers,</hi>
+both for the <hi>time</hi> and <hi>thing,</hi> or elſe they will <hi>frampally</hi> flye in
+their <hi>Brothers faces?</hi> O where is that pious <hi>pull-back</hi> of holy <hi>A<g ref="char:EOLhyphen"/>braham</hi>
+to <hi>Lot,</hi> Let not us fall out together, for, <hi>We are Brethren?</hi>
+            </p>
+            <p>But here,<note place="margin">Object.</note> I know, ye will object and tell us. But Chriſt, in the
+times of the <hi>Goſpel,</hi> came not to ſend <hi>peace</hi> on the earth, but a <hi>ſword,</hi>
+               <pb n="15" facs="tcp:137404:10"/>
+and to ſet men at variance, one againſt another<g ref="char:punc">▪</g> the father againſt
+his child, and the daughter againſt her mother, &amp;c. <hi>Mat.</hi> 10. 34.
+I but let me anſwer,<note place="margin">Anſw.</note> &amp; therein ask you this queſtion. What <hi>ſword</hi>
+was this, w<hi rend="sup">ch</hi> this bleſſed Prince of Peace brought into the world,
+in the times of the Goſpel? was it a ſword of ſtrife and contention,
+of variance, and vitious diſcord of one godly and Chriſtian Brother
+againſt another? of the godly father againſt his pious childe, of the
+truly religious daughter againſt her godly mother. No certainly, no
+ſuch matter: but, of the godly father againſt the ungodly ſon, of truly
+vertuous children againſt obſtinately irreligious &amp; carnall parents:
+only in this ſenſe (as I take it) that thoſe of a mans own houſe
+ſhould be his utter enemies. But, in the other ſenſe, and to the other
+ſort of godly Brethren, and truly pious Chriſtians among them<g ref="char:EOLhyphen"/>ſelves,
+even his Diſciples and Saints, 'tis, I believe, and ought to
+<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>far otherwiſe: O, here, ſayes our Saviour, <hi>Peace, I leave you,
+<gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> peace I give unto you, John</hi> 14. 27. This, indeed, was the great
+<gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> everlaſting Legacy, which Chriſt before his death be queathed
+to his children, &amp; ſet the mark of <hi>Love</hi> upon them to be known to
+<gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Diſciples. And therefore in this reſpect, let me adviſe you,
+my Brethren, to take great heed, leſt by your unjuſt jarres, ye come
+to near the number and nature of thoſe to whom our Saviour pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ces
+a Woe, for offending any of his innocent and peaceable
+<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tle-ones of the <hi>Presbyterian-party,</hi> his undoubted beloved ones;
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>though (as Chriſt ſayes) offences may, and muſt, or will come,
+<hi>Mathth.</hi> 10. 7. yet take heed ye be not thoſe (as, I fear, ye are) by
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>om theſe offences do come. For, believe it, my Brethren, ye give
+<gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> too great cauſe to ſet a mark upon you <hi>(Rom.</hi> 6. 17.) for raiſing
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d cauſing ſuch unjuſt diviſions and offences among us &amp; to wiſh
+<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e had all kept in <hi>New-England</hi> &amp; <hi>Holland</hi> ſtill, then thus to come
+<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mong us, to moleſt our (at firſt) ſo hopefull and happy peace and
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mation, as ye have done, ever ſince ye came over to us. Only,
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>in, we may and muſt ſee the hand of God ſorely upon us, in
+<gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> raiſing you up, who we hoped would and ſhould have been a
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ghty help unto us) to help to whip us for our former unworthy
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lking, and to be no ſmall means to keep off the enjoyment of
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erfull and pure ordinances, longer then we expected. But
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gh thus ye will ſo <hi>inconſiderately,</hi> and indeed, ſo <hi>unchristian<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+retain</hi> your ungrounded opinions <hi>in your ſelves;</hi> yet will ye
+<gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (at leaſt) endeavour with us, <hi>to maintain</hi> the grounds of <hi>pub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+peace</hi> and <hi>Chriſtian-unity</hi> and <hi>unanimity of spirit</hi> againſt the
+<pb n="16" facs="tcp:137404:11"/>
+               <hi>Common Adverſary;</hi> but thus diſcover your <hi>impatient nakedneſſe</hi>
+for the ſcoffing <hi>Chams</hi> of the Kingdome to deride and deteſt us
+both, and all, I ſay, by your <hi>unkinde</hi> and <hi>cauſeleſſe quarrels</hi> with us?
+truly, <hi>my Brethren,</hi> if thus, ye wil <hi>unbendingly</hi> perſiſt to prefer your
+own wils before <hi>Gods will</hi> and <hi>way;</hi> which is, godly <hi>love</hi> &amp; <hi>com<g ref="char:EOLhyphen"/>munion,</hi>
+not <hi>unwarrantable wrangling</hi> &amp; <hi>confuſion;</hi> then take heed
+I beſeech you, leſt ye <hi>too juſtly</hi> fall into the compaſſe and capacity
+of the generation of <hi>thoſe</hi> men; who (as <hi>Solomon</hi> ſayes, <hi>Prov.</hi> 30.
+12.) <hi>are pure in their own eyes, and yet are not waſhed from their
+filthineſſe. And who</hi> (as the Lord himſelf ſayes by the Prophet, <hi>Eſay</hi>
+2. 5.) <hi>walk in a way that is not good, even after their own thoughts,
+who ſay (unto their Brethren) ſtand by your ſelves, come not near
+unto us, for we are holier than ye.</hi> Truly, <hi>my Brethren,</hi> if theſe Scrip<g ref="char:EOLhyphen"/>tures
+be not exceeding nearly, yea, moſt <hi>punctually</hi> and <hi>properly</hi> ap<g ref="char:EOLhyphen"/>plyable
+to you; to what end is your ſo <hi>wilfull</hi> and <hi>obſtinate ſepara<g ref="char:EOLhyphen"/>tion</hi>
+from us, to your own <hi>ſo</hi> pretended pure <hi>Congregationall waies</hi>
+and <hi>Church Aſſemblies,</hi> not admitting any other of your <hi>Chriſtian
+Brethren</hi> to joyn with you, (nor you, by any means, willing to
+joyn or continue with them) but, as I ſaid before, counting <hi>them</hi>
+[mark this] and <hi>their children, as unholy Heathens,</hi> hereby, ſaying
+thus much, in effect, <hi>Stand by your ſelves, for we are holier than ye?</hi>
+Be not, I pray, diſpleaſed at the <hi>words,</hi> for they are <hi>Gods own words,</hi>
+not <hi>mine;</hi> nor with the <hi>compariſon</hi> or <hi>reſemblance,</hi> for ye eaſily ſee
+how peculiarly appliable it is <hi>to you,</hi> not <hi>unto us;</hi> for, we deſire
+moſt cordially your <hi>incorporation</hi> and <hi>communion</hi> with us, and it
+behoves you (as I toucht before, who have <hi>firſt</hi> made the breach,
+and moſt <hi>unkindly,</hi> and, as we conceive, moſt <hi>unjuſtly,</hi> ſeparated
+and departed from us) with all <hi>Chriſtian humility,</hi> and <hi>godly ſelf-denyall,</hi>
+to return unto us, and ſo to repair and make-up the <hi>ſad</hi>
+and <hi>bad breach</hi> ye have made between us. Which that it may be
+ſo, (that ſo we may with holy <hi>David</hi> in a heavenly <hi>harmony</hi> of
+<hi>hearts</hi> and <hi>voyces,</hi> ſing out a loud and lovingly, <hi>Behold how good
+and joyfull a thing it is, Brethren to dwell together in Vnity!</hi> It is
+and ſhall be the ſincere and inceſſant prayer of</p>
+            <closer>
+               <signed>Your Chriſtian Brother,
+J. V.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Ja. Cranford.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
